@@ -1,2 +1,3 @@
 # KeibaPedigreeAnalysing
-競馬の血統分析プログラム
+
+netkeibaのスクレイピングを基にした競馬における血統分析プログラム
